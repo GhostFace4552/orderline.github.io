@@ -1,0 +1,8 @@
+Remove the resume button from the task card component
+
+Remove the resume button functionality from the TaskCard component in client/src/components/task-card.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: cc8a7cac-626e-4bf2-8436-9fca1593d549
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/7879799a-c199-454a-b641-faecdd4849b9/cc8a7cac-626e-4bf2-8436-9fca1593d549/ABJme4a
